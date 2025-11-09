@@ -58,3 +58,7 @@ features:
     enable: false
   privacy_pack:
     enable: false
+
+# Favicon and branding
+branding:
+  favicon: "assests/media/icon.png"
