@@ -119,4 +119,4 @@ awards:
       Awarded $1,000 for outstanding undergraduate research in cognitive science through senior honors thesis.
 ---
 
-Hi! My name is Saloni. I am interested in  developmental psychology, neuroscience, linguistics, and UX research.
+Hi! My name is Saloni. I am interested in  developmental psychology, neuroscience, linguistics, and UX research. Let's connect! yay
