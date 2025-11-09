@@ -67,34 +67,28 @@ work:
     icon: ''
     date_start: 2024-05-01
     date_end: 2025-05-09
-    summary: |2-
-      Conducted a research project on the role of embodied cognition during algebraic tasks.
+    
   - position: Research Assistant
     company_name: LInC Lab
     company_url: 'https://linclab0.github.io/'
     icon: ''
     date_start: 2024-05-01
     date_end: 2025-05-01
-    summary: |2-
-      Assisted graduate students with EEG setup and cleanup, ensuring proper electrode placement and data quality
+    
   - position: Research Assistant
     company_name: Center for Early Cognition and Language
     company_url: 'https://sites.ucmerced.edu/cecl'
     icon: ''
     date_start: 2023-06-01
     date_end: 2025-05-01
-    summary: |2-
-      Acted as experimenter for several different studies, focusing on children’s social understanding, and attitudes towards different social categories.
+    
   - position: Research Assistant
     company_name: Marghetis Lab
     company_url: 'https://marghetislab.github.io/'
     icon: ''
     date_start: 2022-11-01
     date_end: 2024-05-01
-    summary: |2-
-      - Acted as a team leader, developing a poster, which was presented at Cognitive Linguistics Association of North America
-      - Acted as experimenter on study focusing on embodied cognition and gesture
-      - Attended and contributed to weekly lab meetings, discussing research findings, workshops, and tutorials
+   
       
   
 # Skills
