@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: Posters
 cms_exclude: true
 
 # View.
