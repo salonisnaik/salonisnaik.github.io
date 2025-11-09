@@ -25,15 +25,15 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['poster']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Hugo Blox Builder Conference*
-publication_short: In *ICW*
+publication: In *COGSCI 2025 Theorires of the Past, Theories of the Future,*
+publication_short: In *COGSCI 2025*
 
 abstract: Algebra is powerful but difficult. It requires reasoning about abstract relations among symbolic variables. How do we do it? On one account, algebraic expertise is a kind of visual expertise:Experts learn to deploy their attention in ways that reflect the equation's hierarchical structure. Here, we tested this account by tracking participants' eye movements while they viewed algebraic expressions. On Algebra trials, participants judged the algebraic equivalence of two expressions. On Search trials, participants viewed the same expressions but had to verify the location of letters, a non-algebraic task. Despite viewing identical visual displays on both tasks, participants shifted their gaze in systematically different ways. When interacting with the expressions algebraically, participants' eye movements reflected the expression's algebraic structure. Despite algebra's abstractness, its practice may depend on the embodied skill of shifting one's gaze in strategic ways. This perspective can inform mathematics education and theories of abstract reasoning.
 
 
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Presented poster at the COGSCI 2025 Theorires of the Past, Theories of the Future, July 2025.
 
 tags:
   - Eye Tracking
