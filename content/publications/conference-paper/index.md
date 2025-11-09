@@ -25,8 +25,8 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['poster']
 
 # Publication name and optional abbreviated publication name.
-publication: In *COGSCI 2025 Theorires of the Past, Theories of the Future,*
-publication_short: In *COGSCI 2025*
+Conference: COGSCI 2025 Theorires of the Past, Theories of the Future
+Conference: COGSCI 2025
 
 abstract: Algebra is powerful but difficult. It requires reasoning about abstract relations among symbolic variables. How do we do it? On one account, algebraic expertise is a kind of visual expertise:Experts learn to deploy their attention in ways that reflect the equation's hierarchical structure. Here, we tested this account by tracking participants' eye movements while they viewed algebraic expressions. On Algebra trials, participants judged the algebraic equivalence of two expressions. On Search trials, participants viewed the same expressions but had to verify the location of letters, a non-algebraic task. Despite viewing identical visual displays on both tasks, participants shifted their gaze in systematically different ways. When interacting with the expressions algebraically, participants' eye movements reflected the expression's algebraic structure. Despite algebra's abstractness, its practice may depend on the embodied skill of shifting one's gaze in strategic ways. This perspective can inform mathematics education and theories of abstract reasoning.
 
@@ -43,9 +43,9 @@ tags:
 featured: true
 
 # Standard identifiers for auto-linking
-hugoblox:
-  ids:
-    doi: 10.5555/123456
+#hugoblox:
+ # ids:
+    #doi: 10.5555/123456
 
 # Custom links
 #links:
@@ -84,10 +84,9 @@ projects:
 slides: ""
 ---
 
-# > [!NOTE]
-> Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 
-> [!NOTE]
-> Create your slides in Markdown - click the _Slides_ button to check out the example.
 
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
+
+
+
+
