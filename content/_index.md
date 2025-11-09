@@ -37,7 +37,7 @@ sections:
       title: Posters
       filters:
         folders:
-          - publications
+          - posters
         featured_only: true
 
 ---
