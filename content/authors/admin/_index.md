@@ -3,7 +3,7 @@
 title: Saloni Naik
 
 # Name pronunciation (optional)
-name_pronunciation: ''
+name_pronunciation: 'suh-low-knee nye-k'
 
 # Full name (for SEO)
 first_name: Saloni
@@ -45,11 +45,12 @@ profiles:
 interests:
   - STEM Learning
   - Eye-tracking
-  - Embodied Research
+  - Embodied Cognition
+  - Linguistics 
 
 
 education:
-  - area: BS Cognitive Science & BA Psychology
+  - area: BS Cognitive Science | BA Psychology
     institution: UC Merced
     icon: ""
     date_start: 2021-08-01
@@ -67,7 +68,7 @@ work:
     date_start: 2024-05-01
     date_end: 2025-05-09
     summary: |2-
-      Conducted independent research on the role of embodied cognition during algebraic tasks.
+      Conducted a research project on the role of embodied cognition during algebraic tasks.
   - position: Research Assistant
     company_name: LInC Lab
     company_url: 'https://linclab0.github.io/'
@@ -91,9 +92,11 @@ work:
     date_start: 2022-11-01
     date_end: 2024-05-01
     summary: |2-
-      Acted as a team leader, developing a poster, which was presented at Cognitive Linguistics Association of North America
+      - Acted as a team leader, developing a poster, which was presented at Cognitive Linguistics Association of North America
+      - Acted as experimenter on study focusing on embodied cognition and gesture
+      - Attended and contributed to weekly lab meetings, discussing research findings, workshops, and tutorials
+      
   
- 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 #skills:
