@@ -68,36 +68,44 @@ work:
     date_end: 2025-05-09
     summary: |2-
       Conducted independent research on the role of embodied cognition during algebraic tasks.
+  - position: Research Assistant
+    company_name: Center for Early Cognition and Language
+    company_url: 'https://sites.ucmerced.edu/cecl'
+    icon: ''
+    date_start: 2023-06-01
+    date_end: 2025-05-01
+    summary: |2-
+      Acted as experimenter for several different studies, focusing on children’s social understanding, and attitudes towards different social categories.
  
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
-skills:
-  - name: Technical Skills
-    items:
-      - name: Python & PyTorch
-        description: ''
-        percent: 95
-        icon: code-bracket
-      - name: Machine Learning
-        description: ''
-        percent: 100
-        icon: chart-bar
-      - name: Cloud Computing (AWS/GCP)
-        description: ''
-        percent: 85
-        icon: cloud
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
-        percent: 80
-        icon: person-simple-walk
-      - name: Reading
-        description: ''
-        percent: 70
-        icon: book-open
+#skills:
+#  - name: Technical Skills
+#    items:
+#      - name: Python 
+##        description: ''
+#        percent: 65
+#        icon: code-bracket
+#      - name: Machine Learning
+#        description: ''
+ #       percent: 100
+#        icon: chart-bar
+ #     - name: Cloud Computing (AWS/GCP)
+#        description: ''
+#        percent: 85
+ #       icon: cloud
+ # - name: Hobbies
+ #   color: '#eeac02'
+ #   color_border: '#f0bf23'
+ #   items:
+#      - name: Hiking
+ #       description: ''
+ #       percent: 80
+ #       icon: person-simple-walk
+ #     - name: Reading
+#        description: ''
+ #       percent: 70
+ #       icon: book-open
 
 languages:
   - name: English
