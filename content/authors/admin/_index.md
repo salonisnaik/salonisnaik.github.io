@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Alex Johnson
+title: Saloni Naik
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Alex
-last_name: Johnson
+first_name: Saloni
+last_name: Naik
 
 # Pronouns (optional)
-pronouns: he/him
+pronouns: she/her
 
 # Status emoji
 status:
-  icon: 🚀
+  icon: 🍵
 
 # Is this the primary user of the site?
 superuser: true
@@ -23,7 +23,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Senior AI Research Scientist
+role: 
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -34,54 +34,30 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:alex.johnson@meta.com'
+    url: 'mailto:saloninaikwork@gmail.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/AlexAIResearch
   - icon: brands/github
-    url: https://github.com/alexjohnsonai
+    url: https://github.com/salonisnaik
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/alexjohnsonai/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=alexjohnson
-  - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://www.linkedin.com/in/saloni-n-08b162269
+ 
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - STEM Learning
+  - Eye-tracking
+  - Embodied Research
+
 
 education:
-  - area: PhD Computer Science (AI Focus)
-    institution: Stanford University
+  - area: BS Cognitive Science & BA Psychology
+    institution: UC Merced
     icon: ""
-    date_start: 2015-09-01
-    date_end: 2019-06-30
+    date_start: 2021-08-01
+    date_end: 2025-05-17
     summary: |
-      Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com/thesis.pdf'
-  - area: MS Computer Science
-    institution: Carnegie Mellon University
-    icon: ""
-    date_start: 2013-09-01
-    date_end: 2015-05-31
-    summary: |
-      GPA: 4.0/4.0
+      GPA: 3.942/4.0
 
-      Specialized in machine learning and robotics.
-  - area: BS Computer Science
-    institution: MIT
-    icon: ""
-    date_start: 2009-09-01
-    date_end: 2013-05-31
-    summary: |
-      GPA: 3.9/4.0
-
-      Minored in Mathematics. President of AI Club.
+    
 
 work:
   - position: Senior AI Research Scientist
