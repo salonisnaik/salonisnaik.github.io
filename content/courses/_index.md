@@ -2,7 +2,7 @@
 title: Courses
 summary: My courses
 type: landing
-draft: true
+
 
 cascade:
   - target:
