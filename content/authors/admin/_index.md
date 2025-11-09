@@ -111,4 +111,4 @@ awards:
       Awarded $1,000 for outstanding undergraduate research in cognitive science through senior honors thesis.
 ---
 
-Hi! My name is Saloni. I am interested in  developmental psychology, neuroscience, linguistics, and UX research. Let's connect! yay
+Hi! My name is Saloni. I am a recent graduate from the University of California, Merced. I double majored in Cognitive Science (B.S.) and Psychology (B.A.). I have an extensive background in Cognitive Science and Psychology, with hands-on experience in research design, data analysis, and participant interaction. Let's connect!
