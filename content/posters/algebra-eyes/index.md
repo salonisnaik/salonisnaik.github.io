@@ -33,7 +33,7 @@ abstract: Algebra is powerful but difficult. It requires reasoning about abstrac
 
 
 # Summary. An optional shortened abstract.
-summary: Presented poster at the COGSCI 2025 Theorires of the Past, Theories of the Future, July 2025.
+summary: Presented poster at the COGSCI 2025 Theories of the Past, Theories of the Future, July 2025.
 
 tags:
   - Eye Tracking
