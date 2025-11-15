@@ -1,6 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title: ''
+css_class: hbx-bg-gradient
 date: 2022-10-24
 type: landing
 
