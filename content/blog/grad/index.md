@@ -1,7 +1,7 @@
 ---
-title: 🎉 Easily create your own simple yet highly customizable blog
-summary: Take full control of your personal brand and privacy by migrating away from the big tech platforms!
-date: 2023-10-27
+title: 🎉  I graduated!!!
+summary: Offically a college graduate! 
+date: 2025-05-18
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
@@ -13,9 +13,9 @@ authors:
   - Ted
 
 tags:
-  - Academic
-  - Hugo Blox
-  - Markdown
+  - officially have a degree
+  - graduate 
+
 
 content_meta:
   trending: true
