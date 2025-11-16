@@ -12,12 +12,12 @@ authors:
   - admin
 
 tags:
-  - officially have a degree
   - graduate 
+  - officially have a degree
 
 
 content_meta:
   trending: false
 ---
 
-I am grateful to annouce that I have officially graduated from UC Merced! I have received Graduation High Honors as well as Cognitive Science Honors. Merced will forever hold a special place in my heart, I'm so glad I got to spend the last 4 years here!
+I am grateful to annouce that I have officially graduated from UC Merced! I have received Graduation High Honors as well as Cognitive Science Honors. I graduated with a double major in Cognitve Science(B.S) and Psychology(B.A.). Merced will forever hold a special place in my heart, I'm so glad I got to spend the last 4 years here!

@@ -7,10 +7,10 @@ authors:
 tags:
   - CogSci 2025
   - scientist vibes
-  - 
+  
 image:
   caption: 'My honors program advisors Dr. Ryskin(left) and Dr. Marghetis(right) and me in front of my poster'
 ---
 
-I was extremly grateful to attend my first CogSci 2025: Theories of the Past, Theories of the Future Conference. I got to present my poster Mathematics as visual skill: Evidence from eye movements during algebraic reasoning. 
+I was excited to attend my first CogSci 2025: Theories of the Past, Theories of the Future Conference. I got to present my poster Mathematics as visual skill: Evidence from eye movements during algebraic reasoning. Super grateful for my advisors Dr. Ryskin and Dr. Marghetis for this awesome opportunity!
 
