@@ -6,8 +6,8 @@
 # Appearance
 appearance:
   mode: system
-  color: zinc
-  custom_css: ["custom.scss"]
+  color: sky
+
 
 # SEO
 marketing:
