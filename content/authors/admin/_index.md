@@ -56,11 +56,18 @@ education:
     date_start: 2021-08-01
     date_end: 2025-05-17
     summary: |
-      GPA: 3.942/4.0
+      GPA: 3.9/4.0
 
     
 
 work:
+  - position: Lab Manager
+    company_name: Language, Interaction, and Cognition Lab
+    company_url: 'https://linclab0.github.io/'
+    icon: ''
+    date_start: 2026-01-05
+    date_end: Current
+
   - position: Honors Scholar
     company_name: Cognitive and Information Sciences Honors Program
     company_url: 'https://cogsci.ucmerced.edu/undergraduate-studies/honors-program'
@@ -69,7 +76,7 @@ work:
     date_end: 2025-05-09
     
   - position: Research Assistant
-    company_name: LInC Lab
+    company_name: Language, Interaction, and Cognition Lab
     company_url: 'https://linclab0.github.io/'
     icon: ''
     date_start: 2024-05-01
