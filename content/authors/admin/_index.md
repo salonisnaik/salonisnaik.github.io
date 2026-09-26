@@ -66,8 +66,8 @@ work:
     company_url: 'https://cogsci.ucmerced.edu/undergraduate-studies/honors-program'
     icon: ''
     date_start: 2026-01-05
-    date_end: Current
     
+
   - position: Honors Scholar
     company_name: Cognitive and Information Sciences Honors Program
     company_url: 'https://cogsci.ucmerced.edu/undergraduate-studies/honors-program'
