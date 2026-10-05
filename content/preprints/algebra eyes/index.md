@@ -8,7 +8,6 @@ tags:
   - Preprint
   - Algebra
   - Eye Tracking
-  - 
 ---
 
 Abstract
