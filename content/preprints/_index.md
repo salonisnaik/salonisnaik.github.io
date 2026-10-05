@@ -15,7 +15,7 @@ sections:
       text: Here are my preprints 
       filters:
         folders:
-          - projects
+          - preprints
     design:
       view: article-grid
       fill_image: false
